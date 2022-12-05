@@ -1,0 +1,11 @@
+= `drawio` Diagrams
+
+This directory contains source code (.drawio XML files) for drawio diagrams.
+
+To edit one of the documents:
+
+1. clone this repo to your local device
+2. direct your browser to https://app.diagrams.net/
+3. open the .drawio file you want to edit
+4. when done, save it and push to github
+
