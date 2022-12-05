@@ -8,4 +8,5 @@ To edit one of the documents:
 2. direct your browser to https://app.diagrams.net/
 3. open the .drawio file you want to edit
 4. when done, save it and push to github
+5. (to embed into other documents, eg, Confluence, either export as .jpeg or paste a screenshot)
 
